@@ -74,8 +74,8 @@
   
   <br/>
   
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jerydam&theme=tokyonight&hide_border=true" alt="Jerydam's Streak" />
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=jerydam&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jerydam's Streak" />
 </div>
 
 
