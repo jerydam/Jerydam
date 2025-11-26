@@ -8,10 +8,10 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/jeremiah-oyeniran-9b1587205/" target="_blank">
+    <a href="https://linkedin.com/in/jerydam/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/jery91512303" target="_blank">
+    <a href="https://x.com/jerydam00" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="https://t.me/jerydam" target="_blank">
