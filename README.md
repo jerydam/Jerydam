@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 align="center">Hi 👋, I'm Jeremiah Oyeniran</h1>
-  <h3 align="center">Full-Stack Web3 Developer | Developer Relations | Co-founder @ FaucetDrops</h3>
+  <h3 align="center">Full-Stack Web3 Developer | Blockchain Engineer | Developer Relations</h3>
 
   <p align="center">
     I build the tools that get developers — and everyday users — to their first onchain transaction faster.
@@ -28,11 +28,13 @@
 
 ### 👨‍💻 About Me
 
-I'm an impact-driven builder focused on **onchain accessibility**. As co-founder of **[FaucetDrops](https://faucetdrops.io)**, I've shipped faucet, quest, and quiz-tournament infrastructure that helps ecosystems onboard and reward their communities across **Celo, Base, BNB, Lisk, Arbitrum, and Solana**.
+I am a full-stack Web3 developer who designs, builds, and ships production decentralized applications end-to-end — from **audit-conscious Solidity smart contracts**, through **Python/FastAPI backend services**, to **polished Next.js/TypeScript frontends**.
 
-I work across the full stack — from **Solidity contracts** to **FastAPI backends** to **Next.js frontends** — and across chains: EVM, **Starknet (Cairo)**, **Aleo (Leo)**, **Flow (Cadence)**, **Stellar (Soroban)**, and **Zcash**. Lately I've been deep in **mobile-first consumer crypto** on Celo's MiniPay.
+My work centers on **onchain accessibility and onboarding infrastructure**. At **[FaucetDrops](https://faucetdrops.io)**, I engineered multi-chain faucet, quest, and quiz-tournament systems — with social and onchain verification, admin delegation, and onchain prize pools — deployed across **Celo, Base, BNB Chain, Lisk, Arbitrum, and Solana**. On the consumer side, I build **mobile-first products for Celo's MiniPay environment**, including real-time multiplayer game economies with WebSocket game loops, stake negotiation, and soulbound token incentives.
 
-**Open to Developer Relations roles** — I love turning complex onchain systems into things developers can actually pick up and ship with.
+Beyond the EVM, I ship on **Starknet (Cairo)**, **Aleo (Leo)**, **Flow (Cadence)**, **Stellar (Soroban)**, and **Zcash**, with hands-on experience in **Account Abstraction (ERC-4337)**, zero-knowledge identity (ZK-KYC), and cross-chain infrastructure.
+
+**Open to Developer Relations opportunities** — I combine deep technical range with a builder's instinct for what makes a protocol easy to adopt, and I enjoy turning complex onchain systems into tools, demos, and documentation developers can pick up and ship with.
 
 ---
 
@@ -44,9 +46,8 @@ I work across the full stack — from **Solidity contracts** to **FastAPI backen
 | **PrimeIQ** | MiniPay-native 1v1 quiz dueling on Celo — real-time WebSocket game loops, stake negotiation, soulbound token economy. | Solidity, Next.js, FastAPI, Celo | 🟢 Live |
 | **[ContriBoost](https://contriboost.xyz)** | Group savings protocol — transparent pooled contributions and automated payouts. | Solidity, React, Celo | 🟢 Live |
 | **[Custos Diretriz](https://custosdiretriz.com)** | Crime-scene witnessing record & agreement system on Starknet. | Cairo, Next.js, Starknet | 🟢 Live |
-| **zClash** | ZEC-staked quiz duels with transparent-address escrow and a custom ZIP-244 tx builder — built for ZecHub Hackathon 3.0. | FastAPI, Next.js, Zcash | 🟡 Beta |
 | **Kakushō** | ZK-KYC protocol — TypeScript SDK with OCR/NFC verification and a Soroban relayer. | TypeScript, FastAPI, Stellar | 🔨 In dev |
-| **Agent Combat** | Onchain real-time battle game — AI-powered NFT agents that fight, train, and evolve. | Solidity, Next.js, FastAPI | 🔨 In dev |
+| **[Agent Combat](https://agentcombat.xyz)** | Onchain real-time battle game — AI-powered NFT agents that fight, train, and evolve. | Solidity, Next.js, FastAPI | 🟡 Testnet |
 
 ---
 
