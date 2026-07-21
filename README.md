@@ -1,12 +1,12 @@
 <div align="center">
-
+ 
   <h1 align="center">Hi 👋, I'm Jeremiah Oyeniran</h1>
-  <h3 align="center">Full-Stack Web3 Developer | Blockchain Engineer | Developer Relations</h3>
-
+  <h3 align="center">Chief Technology Officer | Full-Stack Web3 Engineer | ZK & Smart Contract Developer</h3>
+ 
   <p align="center">
-    I build the tools that get developers — and everyday users — to their first onchain transaction faster.
+    <b>Solidity • Rust • Python • TypeScript • Circom</b>
   </p>
-
+ 
   <p align="center">
     <a href="https://linkedin.com/in/jerydam/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,21 +21,43 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-
+ 
+  <br />
+  <p align="left">
+    I am an impact-driven <b>Full-Stack Blockchain Developer</b> and the <b>CTO of FaucetDrops</b>, with experience building secure, scalable decentralized applications and multi-chain infrastructure. I specialize in <b>Solidity</b> and <b>EVM ecosystems</b>, with deep expertise in <b>Zero-Knowledge Proofs (Circom, Noir)</b>, <b>Rust (Soroban)</b>, and robust backend engineering using <b>FastAPI</b>.
+  </p>
+ 
 </div>
-
+ 
 ---
-
-### 👨‍💻 About Me
-
-I am a full-stack Web3 developer who designs, builds, and ships production decentralized applications end-to-end — from **audit-conscious Solidity smart contracts**, through **Python/FastAPI backend services**, to **polished Next.js/TypeScript frontends**.
-
-My work centers on **onchain accessibility and onboarding infrastructure**. At **[FaucetDrops](https://faucetdrops.io)**, I engineered multi-chain faucet, quest, and quiz-tournament systems — with social and onchain verification, admin delegation, and onchain prize pools — deployed across **Celo, Base, BNB Chain, Lisk, Arbitrum, and Solana**. On the consumer side, I build **mobile-first products for Celo's MiniPay environment**, including real-time multiplayer game economies with WebSocket game loops, stake negotiation, and soulbound token incentives.
-
-Beyond the EVM, I ship on **Starknet (Cairo)**, **Aleo (Leo)**, **Flow (Cadence)**, **Stellar (Soroban)**, and **Zcash**, with hands-on experience in **Account Abstraction (ERC-4337)**, zero-knowledge identity (ZK-KYC), and cross-chain infrastructure.
-
-**Open to Developer Relations opportunities** — I combine deep technical range with a builder's instinct for what makes a protocol easy to adopt, and I enjoy turning complex onchain systems into tools, demos, and documentation developers can pick up and ship with.
-
+ 
+### 🏆 Achievements & Trophies
+ 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jerydam&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+ 
+---
+ 
+### 🧠 My Engineering Philosophy
+ 
+- **Security First:** I don't just write code; I write code that survives audits. I integrate rigorous testing using tools like **Foundry** and **Hardhat** in my CI/CD pipelines.
+- **User-Centric Architecture:** I build seamless Web3 experiences by leveraging **Account Abstraction (ERC-6551)** and engineering automated, stateless gasless relayers to remove friction.
+- **Multi-Chain Versatility:** I bridge the gap between diverse ecosystems, developing scalable applications and custom indexers across **Celo**, **Solana**, **Stellar**, **Rootstock**, **Starknet**, and **Base**.
+ 
+---
+ 
+### 🛠️ Technical Stack
+ 
+| Domain | Technologies |
+| :--- | :--- |
+| **Smart Contracts & ZK** | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Circom](https://img.shields.io/badge/-Circom-FFB000?style=flat&logo=generic&logoColor=black) ![Noir](https://img.shields.io/badge/-Noir-000000?style=flat&logo=generic&logoColor=white) ![Cairo](https://img.shields.io/badge/-Cairo-D6409F?style=flat&logo=starknet&logoColor=white) |
+| **Backend & Database** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Web3 Frameworks** | ![Foundry](https://img.shields.io/badge/-Foundry-EA5403?style=flat&logo=generic&logoColor=white) ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black) ![Web3.py](https://img.shields.io/badge/-Web3.py-5A5A5A?style=flat&logo=python&logoColor=white) |
+ 
 ---
 
 ### 🚀 Featured Projects
@@ -43,7 +65,6 @@ Beyond the EVM, I ship on **Starknet (Cairo)**, **Aleo (Leo)**, **Flow (Cadence)
 | Project | What it is | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[FaucetDrops](https://faucetdrops.io)** | Multi-chain faucet, quest & quiz-tournament platform for ecosystem onboarding — social + onchain verification, admin delegation, onchain prize pools. | Solidity, Next.js, FastAPI, Anchor · 6+ chains | 🟢 Live |
-| **PrimeIQ** | MiniPay-native 1v1 quiz dueling on Celo — real-time WebSocket game loops, stake negotiation, soulbound token economy. | Solidity, Next.js, FastAPI, Celo | 🟢 Live |
 | **[ContriBoost](https://contriboost.xyz)** | Group savings protocol — transparent pooled contributions and automated payouts. | Solidity, React, Celo | 🟢 Live |
 | **[Custos Diretriz](https://custosdiretriz.com)** | Crime-scene witnessing record & agreement system on Starknet. | Cairo, Next.js, Starknet | 🟢 Live |
 | **Kakushō** | ZK-KYC protocol — TypeScript SDK with OCR/NFC verification and a Soroban relayer. | TypeScript, FastAPI, Stellar | 🔨 In dev |
