@@ -1,7 +1,7 @@
 <div align="center">
  
   <h1 align="center">Hi 👋, I'm Jeremiah Oyeniran</h1>
-  <h3 align="center">Chief Technology Officer | Full-Stack Web3 Engineer | ZK & Smart Contract Developer</h3>
+  <h3 align="center"> Full-Stack Web3 Engineer | ZK & Smart Contract Developer</h3>
  
   <p align="center">
     <b>Solidity • Rust • Python • TypeScript • Circom</b>
