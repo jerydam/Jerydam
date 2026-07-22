@@ -24,7 +24,7 @@
  
   <br />
   <p align="left">
-    I am an impact-driven <b>Full-Stack Blockchain Developer</b> and the <b>CTO of FaucetDrops</b>, with experience building secure, scalable decentralized applications and multi-chain infrastructure. I specialize in <b>Solidity</b> and <b>EVM ecosystems</b>, with deep expertise in <b>Zero-Knowledge Proofs (Circom, Noir)</b>, <b>Rust (Soroban)</b>, and robust backend engineering using <b>FastAPI</b>.
+    I am an impact-driven <b>Full-Stack Blockchain Developer, with experience building secure, scalable decentralized applications and multi-chain infrastructure. I specialize in <b>Solidity</b> and <b>EVM ecosystems</b>, with deep expertise in <b>Zero-Knowledge Proofs (Circom, Noir)</b>, <b>Rust (Soroban)</b>, and robust backend engineering using <b>FastAPI</b>.
   </p>
  
 </div>
